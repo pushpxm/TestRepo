@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "editing something"
 function create_file() {
 
 file=$1
