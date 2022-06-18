@@ -1,3 +1,18 @@
 testing 2
 edit2: edited and saved in cool branch.
-Praciting and revising some more git commands. 
+Praciting and revising some more git commands.
+
+git status
+git add .
+git commit
+git push
+
+git pull (to pull the data out of the remote system)
+git merge (to merge the branches updates)
+git fetch (fetching ... gonna look )
+
+git pull -r (rebase)
+
+git branch ( to look out waht branch youre in and what branch are there)
+git checkout (moving to branches or history)
+git log (history) 
